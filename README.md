@@ -19,3 +19,5 @@ start server
 ```bash
 python linehook.py
 ```
+
+Then you can run this project on Heroku.
