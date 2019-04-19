@@ -1,0 +1,6 @@
+token: "<Your Token>"
+channel_secret: "<Your channel secret>"
+mongodb:
+  host: "<Your Host>"
+  port: "<Your Port>"
+version: 1.0.0
