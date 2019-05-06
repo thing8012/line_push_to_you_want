@@ -1,6 +1,7 @@
 token: "<Your Token>"
-channel_secret: "<Your channel secret>"
+channel_secret: "<Your channel_secret>"
 mongodb:
-  host: "<Your Host>"
+  host: "<Your mongodb host or mongodb url>"
   port: "<Your Port>"
 version: 1.0.0
+heroku_url: "<Your api domain name>"
