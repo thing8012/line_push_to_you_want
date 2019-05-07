@@ -12,7 +12,10 @@ pip install -r requirements
 ```
 ### Step 3
 setting line token and channel secret in config.yaml
+
 setting mongodb host and port in config.yaml
+
+setting heroku url in config.yaml
 
 ### Step 4
 start server
